@@ -437,7 +437,7 @@ For detailed engineering decisions, prompt strategy, and things we tried & dropp
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/snehitvaddi">Varshith</a>
+  Built by <a href="https://www.linkedin.com/in/snehitvaddi/">Snehit Vaddi</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:fb923c,100:fdba74&height=100&section=footer" width="100%" />
