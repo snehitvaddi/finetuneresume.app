@@ -1,64 +1,109 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Finetune%20Resume&fontSize=42&fontAlignY=36&desc=AI-Powered%20Resume%20Tailoring%20That%20Actually%20Works&descAlignY=56&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:fb923c,100:fdba74&height=180&section=header&text=Finetune%20Resume&fontSize=42&fontAlignY=32&desc=Stop%20Submitting%20Generic%20Resumes&descAlignY=54&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.finetuneresume.app"><img src="https://img.shields.io/badge/Website-finetuneresume.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://chromewebstore.google.com"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
-  <a href="docs/api.md"><img src="https://img.shields.io/badge/API_Docs-Read-00C853?style=for-the-badge&logo=readthedocs&logoColor=white" alt="API Docs" /></a>
+  <img src="assets/logo.png" width="140" alt="Finetune Resume — AI Otter Mascot" />
+</p>
+
+<h3 align="center">AI-tailored resumes for every job application.</h3>
+<p align="center"><em>Upload your resume once. We tailor it for every job you apply to, automatically.</em></p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.finetuneresume.app"><img src="https://img.shields.io/badge/Website-finetuneresume.app-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://chromewebstore.google.com/detail/finetune-resume-ai/mpnpoeoabknplmcecjagjahhfgiddgld"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install_Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>&nbsp;
+  <a href="docs/api.md"><img src="https://img.shields.io/badge/API_Docs-Read-1a1a2e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="API Docs" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/resumes_generated-10,000+-blueviolet?style=flat-square" alt="Resumes Generated" />
-  <img src="https://img.shields.io/badge/avg_generation-~10s-blue?style=flat-square" alt="Avg Generation Time" />
+  <img src="https://img.shields.io/chrome-web-store/rating/mpnpoeoabknplmcecjagjahhfgiddgld?style=flat-square&label=Chrome%20Rating&color=f97316" alt="Chrome Rating" />
+  <img src="https://img.shields.io/chrome-web-store/users/mpnpoeoabknplmcecjagjahhfgiddgld?style=flat-square&label=Users&color=f97316" alt="Chrome Users" />
+  <img src="https://img.shields.io/badge/cost_per_resume-$0.01-f97316?style=flat-square" alt="Cost" />
   <img src="https://img.shields.io/badge/uptime-99.9%25-brightgreen?style=flat-square" alt="Uptime" />
-  <img src="https://img.shields.io/badge/cost_per_resume-$0.01--0.05-orange?style=flat-square" alt="Cost" />
-  <img src="https://img.shields.io/github/license/snehitvaddi/finetuneresume.app?style=flat-square&color=blue" alt="License" />
+  <img src="https://img.shields.io/github/license/snehitvaddi/finetuneresume.app?style=flat-square&color=f97316" alt="License" />
 </p>
 
 ---
 
-## The Problem
+## What People Are Saying
 
-Every job application needs a tailored resume. Doing it manually takes **30-60 minutes**. Most people either send the same generic resume everywhere, burn out customizing, or use AI tools that just sprinkle keywords in.
+> *"This is what me as a job seeker expected... It's like having a personal tailor for your resumes."*
+> — **Aditya Sai** &#11088; &#11088; &#11088; &#11088; &#11088;
 
-## The Solution
+> *"Used the extension to apply for a job last night... got a call from recruiter to schedule interview!"*
+> — **Shreya C.** &#11088; &#11088; &#11088; &#11088; &#11088;
+
+> *"Out of all the tools I tried... provides the most non-AI sounding resume. Magical."*
+> — **Nikhil R.** &#11088; &#11088; &#11088; &#11088; &#11088;
+
+> *"SIMPLEST finetuning tool on the market right now. No complicated setup, just works."*
+> — **Meera P.** &#11088; &#11088; &#11088; &#11088; &#11088;
+
+<p align="center">
+  <strong>5.0</strong> &#11088; on Chrome Web Store
+</p>
+
+---
+
+## How It Works
 
 <table>
 <tr>
-<td width="50">1.</td>
-<td><strong>Install the Chrome extension</strong> — works on LinkedIn, Indeed, Greenhouse, Lever</td>
-</tr>
-<tr>
-<td>2.</td>
-<td><strong>Browse jobs normally</strong> — extension detects job pages automatically</td>
-</tr>
-<tr>
-<td>3.</td>
-<td><strong>Click "Tailor Resume"</strong> — paste or highlight the job description</td>
-</tr>
-<tr>
-<td>4.</td>
-<td><strong>Get a PDF in ~10 seconds</strong> — fully tailored, ATS-optimized, ready to submit</td>
+<td align="center" width="25%">
+  <h3>1. Upload Resume</h3>
+  <p>Upload your PDF or image.<br/>AI extracts everything.</p>
+</td>
+<td align="center" width="25%">
+  <h3>2. Pick a Template</h3>
+  <p>Choose from ATS-friendly<br/>professional templates.</p>
+</td>
+<td align="center" width="25%">
+  <h3>3. Browse Jobs</h3>
+  <p>Extension auto-detects<br/>job details on LinkedIn.</p>
+</td>
+<td align="center" width="25%">
+  <h3>4. Download PDF</h3>
+  <p>AI-tailored resume<br/>ready in one click.</p>
+</td>
 </tr>
 </table>
 
 ---
 
-## Numbers
+## By The Numbers
 
-<p align="center">
-
-| | |
-|:---:|:---:|
-| **~10s** | **3 LLM** |
-| End-to-end generation | Fallback providers |
-| **99.9%** | **14-18** |
-| Uptime via fallback chain | Words enforced per bullet |
-| **5+** | **$0.01** |
-| Min bullets per experience | Avg cost per resume |
-
-</p>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <h1>~10s</h1>
+  <p>End-to-end generation</p>
+</td>
+<td align="center" width="33%">
+  <h1>99.9%</h1>
+  <p>Uptime via 3-model fallback</p>
+</td>
+<td align="center" width="33%">
+  <h1>$0.01</h1>
+  <p>Avg cost per resume</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <h1>14-18</h1>
+  <p>Words enforced per bullet</p>
+</td>
+<td align="center">
+  <h1>5+</h1>
+  <p>Min bullets per experience</p>
+</td>
+<td align="center">
+  <h1>4</h1>
+  <p>Job sites auto-detected</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +113,7 @@ Every job application needs a tailored resume. Doing it manually takes **30-60 m
 ┌─────────────────────────────────────────────────────────────────┐
 │                  CHROME EXTENSION  (Manifest V3)                │
 │     Detects job pages on LinkedIn / Indeed / Greenhouse / Lever │
-│     User pastes JD  →  Sends to backend API with auth token    │
+│     User pastes JD  -->  Sends to backend API with auth token   │
 └──────────────────────────────┬──────────────────────────────────┘
                                │  POST /api/generate-resume
                                ▼
@@ -80,7 +125,7 @@ Every job application needs a tailored resume. Doing it manually takes **30-60 m
 │   3. Extract job metadata  (company, role, requirements)        │
 │   4. Select finetune level  (basic / good / super)              │
 │   5. LLM tailors sections  (3-model fallback chain)             │
-│   6. Teacher-Student Council  (critique → refine → validate)    │
+│   6. Teacher-Student Council  (critique -> refine -> validate)  │
 │   7. Merge tailored JSON into base resume                       │
 │   8. Generate PDF via Reactive Resume                           │
 │   9. Save + track usage metrics                                 │
@@ -91,7 +136,7 @@ Every job application needs a tailored resume. Doing it manually takes **30-60 m
                                ▼
 ┌─────────────────────────────────────────────────────────────────┐
 │             REACTIVE RESUME  (Self-hosted on Railway)           │
-│     Resume JSON  →  Chromium / Browserless  →  PDF              │
+│     Resume JSON  -->  Chromium / Browserless  -->  PDF          │
 │     Multiple templates  (standard, LaTeX-style, etc.)           │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -105,7 +150,9 @@ Every job application needs a tailored resume. Doing it manually takes **30-60 m
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
@@ -119,7 +166,7 @@ Every job application needs a tailored resume. Doing it manually takes **30-60 m
 | **Backend** | Next.js 14 (App Router), Vercel Serverless |
 | **Auth** | Supabase Auth (Google OAuth) |
 | **Database** | Supabase PostgreSQL + Row-Level Security |
-| **LLM** | Groq (primary) → OpenRouter (DeepSeek V3.2, GPT-5 fallbacks) |
+| **LLM** | Groq (primary) -> OpenRouter (DeepSeek V3.2, GPT-5 fallbacks) |
 | **PDF** | Reactive Resume (self-hosted fork on Railway) |
 | **Payments** | Stripe / Polar |
 | **Monorepo** | Turborepo + npm workspaces |
@@ -132,11 +179,9 @@ Every job application needs a tailored resume. Doing it manually takes **30-60 m
 
 ### 1. Three Finetune Levels
 
-Not every application needs the same depth:
-
 | Level | What It Does | Best For |
 |:-----:|:-------------|:---------|
-| `basic` | Keyword optimization only — skills + summary terms | Quick-apply, already a fit |
+| `basic` | Keyword optimization — skills + summary terms | Quick-apply, already a fit |
 | `good` | Summary rewrite + keyword-optimized bullet tweaks | Most applications |
 | `super` | Full creative rewrite — reframes every experience for the target industry | Dream jobs, career pivots |
 
@@ -153,13 +198,13 @@ One-size-fits-all tailoring either under-delivers (just keywords) or over-delive
 We never depend on a single provider:
 
 ```
-  Groq  (GPT OSS 120B — fast, sub-3s inference)
-    │ fails?
-    ▼
-  OpenRouter → DeepSeek V3.2  (creative, 30s timeout)
-    │ fails?
-    ▼
-  OpenRouter → GPT-5  (last resort, 30s timeout)
+  Groq  (GPT OSS 120B  --  fast, sub-3s inference)
+    | fails?
+    v
+  OpenRouter -> DeepSeek V3.2  (creative, 30s timeout)
+    | fails?
+    v
+  OpenRouter -> GPT-5  (last resort, 30s timeout)
 ```
 
 <details>
@@ -172,18 +217,18 @@ LLM APIs go down. Rate limits hit at peak hours (Monday mornings = job applicati
 
 ### 3. Bullet Point Engineering
 
-This is where most AI resume tools fail. Our rules:
+This is where most AI resume tools fail:
 
 | Rule | What | Why |
 |:-----|:-----|:----|
-| **Exact count** | If original has 6 bullets → output has 6. Min floor: 5. | Preserves resume structure |
+| **Exact count** | Original has 6 bullets -> output has 6. Min floor: 5. | Preserves resume structure |
 | **14-18 words** | Every bullet enforced to this range | Shorter = incomplete. Longer = ATS cutoff. |
-| **SAR storytelling** | First 1-2 bullets: Situation → Action → Result | Recruiters want context, not just claims |
+| **SAR storytelling** | First 1-2 bullets: Situation -> Action -> Result | Recruiters want context, not just claims |
 | **Varied metrics** | Mix of multipliers, absolute numbers, $, time saved | All-percentage bullets look AI-generated |
 | **No AI slop** | Banned: *spearheaded, leveraged, synergized, orchestrated* | Natural verbs: built, shipped, led, designed |
 
 <details>
-<summary><strong>Example: Good vs Bad bullets</strong></summary>
+<summary><strong>Good vs Bad bullets</strong></summary>
 <br/>
 
 **Bad** (AI slop, only percentages):
@@ -201,15 +246,18 @@ This is where most AI resume tools fail. Our rules:
 After initial generation, a second LLM pass critiques and refines:
 
 ```
-  Student (Generator)  →  produces tailored resume
-          ↓
-  Teacher (Critic)     →  scores sections, flags issues
-          ↓
+  Student (Generator)  -->  produces tailored resume
+          |
+          v
+  Teacher (Critic)     -->  scores sections, flags issues
+          |
     Score < threshold?
-          ↓ yes
-  Refiner              →  fixes flagged issues with feedback
-          ↓
-  Validator            →  checks bullet counts, word lengths, completeness
+          | yes
+          v
+  Refiner              -->  fixes flagged issues with feedback
+          |
+          v
+  Validator            -->  checks bullet counts, word lengths, completeness
 ```
 
 <details>
@@ -226,7 +274,7 @@ For career pivoters — someone moving from fintech to healthtech doesn't just n
 
 - Maps existing work to equivalent problems in the target domain
 - Preserves factual anchors (companies, dates, titles) while rewriting narratives
-- Creates plausible connections: *finance → healthcare finance, retail → patient engagement, logistics → medical supply chain*
+- Creates plausible connections: *finance -> healthcare finance, retail -> patient engagement, logistics -> medical supply chain*
 
 ---
 
@@ -234,7 +282,7 @@ For career pivoters — someone moving from fintech to healthtech doesn't just n
 
 The extension **doesn't scrape** job pages. Users paste or highlight the JD.
 
-> Scraping breaks every few weeks (LinkedIn DOM changes), gets your extension banned, and risks the user's account. Paste/highlight is 100% reliable on any site.
+> Scraping breaks every few weeks (LinkedIn DOM changes), gets extensions banned, and risks user accounts. Paste/highlight is 100% reliable on any job site.
 
 ---
 
@@ -284,15 +332,15 @@ curl -X POST https://www.finetuneresume.app/api/generate-resume \
 
 | Method | Endpoint | Description |
 |:------:|:---------|:------------|
-| `POST` | `/api/generate-resume` | Generate a tailored resume + PDF |
+| `POST` | `/api/generate-resume` | Generate tailored resume + PDF |
 | `GET` | `/api/resumes` | List all generated resumes |
 | `GET` | `/api/resumes/:id` | Get a specific resume |
 | `DELETE` | `/api/resumes/:id` | Delete a resume |
 | `GET/PUT` | `/api/user/base-resume` | Get or update base resume |
-| `POST` | `/api/parse-resume` | Upload PDF → structured JSON |
+| `POST` | `/api/parse-resume` | Upload PDF -> structured JSON |
 | `GET` | `/api/usage` | Usage stats & remaining credits |
 | `POST` | `/api/extract-job-metadata` | Parse JD into structured data |
-| `GET` | `/api/generate-word/:id` | Export resume as .docx |
+| `GET` | `/api/generate-word/:id` | Export as .docx |
 
 ---
 
@@ -303,7 +351,7 @@ curl -X POST https://www.finetuneresume.app/api/generate-resume \
   <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   <img src="https://img.shields.io/badge/Greenhouse-24B47E?style=for-the-badge&logo=greenhouse&logoColor=white" />
   <img src="https://img.shields.io/badge/Lever-1B1D23?style=for-the-badge&logo=lever&logoColor=white" />
-  <img src="https://img.shields.io/badge/Any_Site-Paste_&_Highlight-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Any_Site-Paste_&_Highlight-f97316?style=for-the-badge" />
 </p>
 
 ---
@@ -319,8 +367,6 @@ finetune-resume/
 ├── reactive-resume/    # Forked PDF generator (Railway)
 └── supabase/           # Database migrations & functions
 ```
-
-Monorepo managed with **Turborepo** + **npm workspaces**.
 
 ---
 
@@ -385,11 +431,13 @@ For detailed engineering decisions, prompt strategy, and things we tried & dropp
 ---
 
 <p align="center">
-  <a href="https://www.finetuneresume.app"><img src="https://img.shields.io/badge/Try_It-finetuneresume.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.finetuneresume.app"><img src="https://img.shields.io/badge/Get_Started_Free-finetuneresume.app-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://chromewebstore.google.com/detail/finetune-resume-ai/mpnpoeoabknplmcecjagjahhfgiddgld"><img src="https://img.shields.io/badge/Install_Extension-Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/snehitvaddi">Varshith</a> &bull; <a href="https://www.finetuneresume.app">finetuneresume.app</a>
+  Built by <a href="https://github.com/snehitvaddi">Varshith</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:fb923c,100:fdba74&height=100&section=footer" width="100%" />
